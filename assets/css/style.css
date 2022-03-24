@@ -248,7 +248,7 @@ section  {
   .radio-wrapper input:checked + label::after {
     content: "";
   }
-
+  
 /* Hero Style End */
 
 .section-title {
